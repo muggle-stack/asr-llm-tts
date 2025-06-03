@@ -37,6 +37,11 @@ git clone https://github.com/muggle-stack/asr-llm-tts.git
 cd asr-llm-tts
 ```
 
+下载 ollama (https://ollama.com/download/windows)
+```bash
+ollama pull qwen3:0.6b
+```
+
 推荐虚拟环境安装依赖，不想虚拟环境就跳过这点：
 ```bash
 sudo apt install venv
