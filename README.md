@@ -42,6 +42,7 @@ cd asr-llm-tts
 sudo apt install venv
 python -m venv .venv
 source ~/.venv/bin/activate
+```
 
 ```bash
 pip install -r requirements.txt
